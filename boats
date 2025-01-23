@@ -1,42 +1,42 @@
 [
   {
-    "id": 1,
-    "title": "Canoe",
-    "body": "Paddler : Kapil Prasad Sapkota || BoadId: 69A",
-    "condition": "Brand New",
-    "price": "Rs.500/hrs",
-    "image": "https://media.istockphoto.com/id/532348030/photo/twilight-with-boats-on-phewa-lake-pokhara-nepal.jpg?s=612x612&w=0&k=20&c=ILHRUN-zVLTgi37biQMRrIbz7cB9ZH0I6cffwq6kBN4="
+    "boatId": 1,
+    "title": "Luxury Yacht",
+    "body": "A premium yacht for the elite class.",
+    "condition": "New",
+    "price": "Rs.5000",
+    "image": "https://example.com/yacht.jpg"
   },
   {
-    "id": 2,
-    "title": "Speedboat Special Edition",
-    "body": "A powerful speedboat perfect for water adventures.",
-    "condition": "Used - Excellent",
-    "price": "$450,000",
-    "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
-  },
-  {
-    "id": 3,
+    "boatId": 2,
     "title": "Fishing Boat",
-    "body": "Well-equipped fishing boat with storage for a big catch.",
-    "condition": "Used - Good",
-    "price": "$75,000",
-    "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
+    "body": "Perfect for small fishing trips.",
+    "condition": "Used",
+    "price": "Rs.800",
+    "image": "https://example.com/fishing-boat.jpg"
   },
   {
-    "id": 4,
-    "title": "Houseboat for Family",
-    "body": "Spacious houseboat ideal for family vacations.",
-    "condition": "Brand New",
-    "price": "$900,000",
-    "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
+    "boatId": 3,
+    "title": "Rowing Boat",
+    "body": "Ideal for lakes and calm waters.",
+    "condition": "New",
+    "price": "Rs.1500",
+    "image": "https://example.com/rowing-boat.jpg"
   },
   {
-    "id": 5,
-    "title": "Sailboat Adventure",
-    "body": "Classic sailboat designed for long sea voyages.",
-    "condition": "Used - Like New",
-    "price": "$300,000",
-    "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
+    "boatId": 4,
+    "title": "Sailing Boat",
+    "body": "A compact sailing boat for enthusiasts.",
+    "condition": "Used",
+    "price": "Rs.3000",
+    "image": "https://example.com/sailing-boat.jpg"
+  },
+  {
+    "boatId": 5,
+    "title": "Motorboat",
+    "body": "Fast and reliable motorboat for quick transport.",
+    "condition": "New",
+    "price": "Rs.4500",
+    "image": "https://example.com/motorboat.jpg"
   }
 ]
