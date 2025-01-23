@@ -2,36 +2,46 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "Canoe",
-    "body": "Paddler : Kapil Prasad Sapkota || Price : Rs.500/hr || Condition : New",
-    "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/fe/98/72.jpg"
+    "title": "Luxury Yacht for Sale",
+    "body": "This is a luxurious yacht suitable for vacations and parties.",
+    "condition": "Brand New",
+    "price": "$1,200,000",
+    "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla",
+    "title": "Speedboat Special Edition",
+    "body": "A powerful speedboat perfect for water adventures.",
+    "condition": "Used - Excellent",
+    "price": "$450,000",
     "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
   },
   {
     "userId": 1,
     "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut",
+    "title": "Fishing Boat",
+    "body": "Well-equipped fishing boat with storage for a big catch.",
+    "condition": "Used - Good",
+    "price": "$75,000",
     "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
   },
   {
     "userId": 1,
     "id": 4,
-    "title": "eum et est occaecati",
-    "body": "ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit",
+    "title": "Houseboat for Family",
+    "body": "Spacious houseboat ideal for family vacations.",
+    "condition": "Brand New",
+    "price": "$900,000",
     "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
   },
   {
     "userId": 1,
     "id": 5,
-    "title": "nesciunt quas odio",
-    "body": "repudiandae veniam quaerat sunt sed alias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque",
+    "title": "Sailboat Adventure",
+    "body": "Classic sailboat designed for long sea voyages.",
+    "condition": "Used - Like New",
+    "price": "$300,000",
     "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
   }
 ]
