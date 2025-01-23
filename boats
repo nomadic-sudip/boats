@@ -2,11 +2,11 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "Luxury Yacht for Sale",
-    "body": "This is a luxurious yacht suitable for vacations and parties.",
+    "title": "Canoe",
+    "body": "Paddler : Kapil Prasad Sapkota",
     "condition": "Brand New",
-    "price": "$1,200,000",
-    "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
+    "price": "Rs.500/hrs",
+    "image": "https://media.istockphoto.com/id/532348030/photo/twilight-with-boats-on-phewa-lake-pokhara-nepal.jpg?s=612x612&w=0&k=20&c=ILHRUN-zVLTgi37biQMRrIbz7cB9ZH0I6cffwq6kBN4="
   },
   {
     "userId": 1,
