@@ -1,6 +1,6 @@
 [
   {
-    "userId": 1,
+    "boatId": 69A,
     "id": 1,
     "title": "Canoe",
     "body": "Paddler : Kapil Prasad Sapkota",
@@ -9,7 +9,7 @@
     "image": "https://media.istockphoto.com/id/532348030/photo/twilight-with-boats-on-phewa-lake-pokhara-nepal.jpg?s=612x612&w=0&k=20&c=ILHRUN-zVLTgi37biQMRrIbz7cB9ZH0I6cffwq6kBN4="
   },
   {
-    "userId": 1,
+    "boatId": 69A,
     "id": 2,
     "title": "Speedboat Special Edition",
     "body": "A powerful speedboat perfect for water adventures.",
@@ -18,7 +18,7 @@
     "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
   },
   {
-    "userId": 1,
+    "boatId": 69A,
     "id": 3,
     "title": "Fishing Boat",
     "body": "Well-equipped fishing boat with storage for a big catch.",
@@ -27,7 +27,7 @@
     "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
   },
   {
-    "userId": 1,
+   "boatId": 69A,
     "id": 4,
     "title": "Houseboat for Family",
     "body": "Spacious houseboat ideal for family vacations.",
@@ -36,7 +36,7 @@
     "image": "https://iqboatlifts.com/wp-content/uploads/2018/06/Yacht-vs-Boat-Whats-the-Difference-Between-the-Two-1024x571.jpg"
   },
   {
-    "userId": 1,
+    "boatId": 69A,
     "id": 5,
     "title": "Sailboat Adventure",
     "body": "Classic sailboat designed for long sea voyages.",
